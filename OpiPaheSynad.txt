@@ -9,14 +9,14 @@
 Диаграмма Ганта - Gantii diagramm 
 
 
-?критический путь проекта - Kriitiline tee projekti
-?виды рисков в проекте - Riskide liigid projektis
+?критический путь проекта - projekti Kritilline tee
+?виды рисков в проекте - projekti Riskide liigid
 ?аутсортсинг - Allhanked
-?краудсортсинг - Crowdsourcing
+?краудсортсинг - Crowdsourcing 
 ?ИТ аудит - IT audit
 ?ERP системы - ERP süsteemi
 ?ROI для оценки проектов - ROI projektide hindamiseks
-?Tacit - Tacit
-?Knowledge Managment System - Teadmiste haldamise süsteem
-?cистемы управления базами данных – какие знаете - MySQL, MSS(MicrosoftSQLServer), Oracle
-?Project Managment Tool - Projektide haldamise tööriist
+?Tacit - Süsteemid Tacit 
+?Knowledge Managment System - KMS ?
+?cистемы управления базами данных – какие знаете - Andmebaaside haldussüsteemid MySQL, MSS(MicrosoftSQLServer), Oracle
+?Project Managment Tool - PML ? Projekti haldurise tarkvara
