@@ -8,15 +8,40 @@
 Проект по реализации - realiseerimis Projekt / teostusprojekt
 Диаграмма Ганта - Gantii diagramm 
 
+***Lisa esimese faili juurde järgmised tõlked:
 
-?критический путь проекта - projekti Kritilline tee
-?виды рисков в проекте - projekti Riskide liigid
+?критический путь проекта - Kriitiline tee projekti
+?виды рисков в проекте - Riskide liigid projektis
 ?аутсортсинг - Allhanked
-?краудсортсинг - Crowdsourcing 
+?краудсортсинг - Crowdsourcing
 ?ИТ аудит - IT audit
 ?ERP системы - ERP süsteemi
 ?ROI для оценки проектов - ROI projektide hindamiseks
-?Tacit - Süsteemid Tacit 
-?Knowledge Managment System - KMS ?
-?cистемы управления базами данных – какие знаете - Andmebaaside haldussüsteemid MySQL, MSS(MicrosoftSQLServer), Oracle
-?Project Managment Tool - PML ? Projekti haldurise tarkvara
+?Tacit - Tacit
+?Knowledge Managment System - Teadmiste haldamise süsteem
+?cистемы управления базами данных – какие знаете - MySQL, MSS(MicrosoftSQLServer), Oracle
+?Project Managment Tool - Projektide haldamise tööriist
+
+Mudel - Модель
+kasutusmalliskeem - kasutuslooskeem - прецедентов диаграмма  
+tegevusskeem - диаграмма активности / деятельности 
+
+jadaskeem - диаграмма последовательности
+klassiskeem - диаграмма классов
+koostööskeem - диаграмма взаимодействия
+
+andmebaasiskeem - диаграмма баз данных
+olem - сущность
+seos - связь
+
+muster - узор / схема / шаблон 
+mustand - черновик
+
+punkt - точка
+romb - ромб
+ristkülik - прямоугольник
+joon - линия 
+nool - стрелка
+algussõlm - начальная узел
+ovaal - овал
+
